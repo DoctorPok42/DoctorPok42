@@ -1,4 +1,9 @@
-### Hi there 👋
+### Salut à tous 👋
+
+Bienvenue sur mon compte, je poste des temps en temps des repos
+Voilà voilà c'est tout pour le moment 😅
+
+et n'oubliez pas on dit chocolatine !
 
 <!--
 **DoctorPok42/DoctorPok42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
