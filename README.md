@@ -6,6 +6,7 @@ Voilà voilà c'est tout pour le moment 😅
 
 et n'oubliez pas on dit chocolatine !
 
+![Stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=radical)
 <!--
 **DoctorPok42/DoctorPok42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
