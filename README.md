@@ -6,7 +6,7 @@ Voilà voilà c'est tout pour le moment 😅
 
 et n'oubliez pas on dit chocolatine !
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/DoctorPok42?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=true&activity.limit=5&activity.days=5&activity.filter=all&pagespeed.url=https%3A%2F%2Fshadow-bot.fr%2F&config.timezone=Europe%2FParis&config.animated=true)
 <!--
 **DoctorPok42/DoctorPok42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
