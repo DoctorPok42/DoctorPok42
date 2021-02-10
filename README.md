@@ -21,7 +21,7 @@ et n'oubliez pas on dit chocolatine !
 
  - GitHub : [@DoctorPok](https://github.com/DoctorPok42/)
 
- - Twitter : <a href="https://twitter.com/_Doctorpok_/" target="blanc">DoctorPok</a>
+ - Twitter : <a href="https://twitter.com/_Doctorpok_/" target="_blank">DoctorPok</a>
 
  - Discord : DoctorPok#1234
 <!--
