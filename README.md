@@ -1,11 +1,12 @@
 ### Salut à tous 👋
 
-Bienvenue sur mon compte, je poste des temps en temps des repos
+Bienvenue sur mon compte, je poste des temps en temps des repos / mise à jour
+<br/>
 
-Voilà voilà c'est tout pour le moment 😅
+Je vous laisse aller voir si vous voulez
+<br/>
 
-et n'oubliez pas on dit chocolatine !
-
+N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas clairent ou si vous avez une idée de comment les améliorer, à me contacter par mail ou par Discord
 
 <details>
   <summary>- Statistiques -</summary>
@@ -20,8 +21,6 @@ et n'oubliez pas on dit chocolatine !
  - Mail : pokdoctor@gmail.com
 
  - GitHub : [@DoctorPok](https://github.com/DoctorPok42/)
-
- - Twitter : <a href="https://twitter.com/_Doctorpok_/" target="_blank">DoctorPok</a>
 
  - Discord : DoctorPok#1234
 <!--
