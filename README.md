@@ -15,6 +15,8 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 <img src="https://api.ghprofile.me/view?username=DoctorPok42"/>
  </details>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=algolia)
  
 ### 📙 Social Media
    
