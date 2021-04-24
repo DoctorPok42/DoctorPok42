@@ -22,7 +22,9 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 <details>
   <summary>:zap: Github Activity</summary>
 <!--START_SECTION:activity-->
-
+ 
+ </details>
+ 
 <details>
   <summary>:zap: Github Stats</summary>
  
