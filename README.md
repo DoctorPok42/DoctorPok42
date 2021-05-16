@@ -26,6 +26,4 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=algolia&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DoctorPok42&theme=algolia&fire=FFBD59)](https://git.io/streak-stats)
-
-<img src="https://api.ghprofile.me/view?username=DoctorPok42"/>
  </details>
