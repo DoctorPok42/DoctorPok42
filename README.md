@@ -27,3 +27,10 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DoctorPok42&theme=algolia&fire=FFBD59)](https://git.io/streak-stats)
  </details>
+
+<div align="center">
+ 
+  [![Years Badge](https://badges.pufler.dev/years/DoctorPok42?style=flat-square&logo=github)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/DoctorPok42?style=flat-square&logo=github)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/DoctorPok42?style=flat-square&logo=github)](https://badges.pufler.dev)
+</div>
