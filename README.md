@@ -19,7 +19,7 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 
  
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Github Stats :arrow_down:</summary>
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=algolia)
 
