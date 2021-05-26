@@ -16,7 +16,6 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
  - GitHub : [@DoctorPok](https://github.com/DoctorPok42/)
 
  - Discord : DoctorPok#1234
-
  
 <details>
   <summary>:zap: Github Stats :arrow_down:</summary>
