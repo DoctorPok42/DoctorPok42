@@ -12,10 +12,9 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 ### 📙 Social Media
    
  - Mail : pokdoctor@gmail.com
-
- - GitHub : [@DoctorPok](https://github.com/DoctorPok42/)
-
+ - Twitter : [@Doctorpok](https://twitter.com/_Doctorpok_)
  - Discord : DoctorPok#1234
+ - Serveur : [https://discord.gg/RRZ6JnuPhM](https://discord.gg/RRZ6JnuPhM)
  
 <details>
   <summary>:zap: Github Stats :arrow_down:</summary>
