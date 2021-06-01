@@ -1,9 +1,7 @@
 # Salut à tous 👋
 
 Bienvenue sur mon compte, je poste des temps en temps des repos / mise à jour
-<br/>
 
-Je vous laisse aller voir si vous voulez
 <br/>
 
 N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas clairent ou si vous avez une idée de comment les améliorer, à me contacter par mail ou par Discord
@@ -18,6 +16,7 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
  
 <details>
   <summary>:zap: Github Stats :arrow_down:</summary>
+ <br />
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=algolia)
 
