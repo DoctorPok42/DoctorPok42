@@ -19,6 +19,7 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
  <br />
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=slateorange)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=slateorange)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DoctorPok42&theme=slateorange&fire=57F287)](https://git.io/streak-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=slateorange&layout=compact)
+
  </details>
