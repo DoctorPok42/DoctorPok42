@@ -10,9 +10,9 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
 ### 📙 Social Media
    
  - Mail : pokdoctor@gmail.com
- - Twitter : [@Doctorpok](https://twitter.com/_Doctorpok_)
- - Discord : https://discord.com/users/492386299190444034
- - Serveur : [https://discord.gg/RRZ6JnuPhM](https://discord.gg/RRZ6JnuPhM)
+ - Twitter : <a href="https://twitter.com/_Doctorpok_" target="_blank">https://twitter.com/_Doctorpok_</a>
+ - Discord : <a href="https://discord.com/users/492386299190444034" target="_blank">https://discord.com/users/492386299190444034</a>
+ - Serveur : <a href="https://discord.gg/RRZ6JnuPhM" target="_blank">https://discord.gg/RRZ6JnuPhM</a>
  
 <details>
   <summary>:zap: Github Stats :arrow_down:</summary>
