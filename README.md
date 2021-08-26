@@ -11,7 +11,7 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
    
  - Mail : pokdoctor@gmail.com
  - Twitter : [@Doctorpok](https://twitter.com/_Doctorpok_)
- - Discord : DoctorPok#1234
+ - Discord : https://discord.com/users/492386299190444034
  - Serveur : [https://discord.gg/RRZ6JnuPhM](https://discord.gg/RRZ6JnuPhM)
  
 <details>
