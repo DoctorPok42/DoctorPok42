@@ -11,7 +11,7 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
    
  - Mail : pokdoctor@gmail.com
  - Discord : <a href="https://discord.com/users/492386299190444034" target="_blank">https://discord.com/users/492386299190444034</a>
- - Serveur : <a href="https://discord.gg/RRZ6JnuPhM" target="_blank">https://discord.gg/RRZ6JnuPhM</a>
+<!-- - Serveur : <a href="https://discord.gg/RRZ6JnuPhM" target="_blank">https://discord.gg/RRZ6JnuPhM</a> -->
  
 <details>
   <summary>:zap: Github Stats :arrow_down:</summary>
