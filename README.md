@@ -17,8 +17,8 @@ N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas cla
   <summary>:zap: Github Stats :arrow_down:</summary>
  <br />
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=react)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=react&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorPok42&show_icons=true&theme=react&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPok42&theme=react&layout=compact&hide_border=true)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DoctorPok42&theme=react&fire=57F287)](https://git.io/streak-stats) -->
 
  </details>
