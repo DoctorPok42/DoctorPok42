@@ -1,13 +1,11 @@
-# Salut à tous 👋
+# Hello ! 👋
+<div align=center>
+I'm DoctorPok and i build things for the web and more
 
-Bienvenue sur mon compte, je poste des temps en temps des repos / mise à jour
+I am a junior developer who likes to invest himself in various projects and keep on learning
+</div>
 
-<br/>
-
-N'hésitez pas aussi si les README que je fais ou autre fichiers ne sont pas claires ou si vous avez une idée de comment les améliorer, à me faire une pr ou me contacter par mail ou par Discord
-
- 
-### 📙 Social Media
+## 📙 Social Media
    
  - Mail : pokdoctor@gmail.com
  - Discord : <a href="https://discord.com/users/492386299190444034" target="_blank">https://discord.com/users/492386299190444034</a>
