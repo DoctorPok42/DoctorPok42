@@ -2,7 +2,7 @@
 <div align=center>
 I'm DoctorPok and i build things for the web and more
 
-I am a junior developer who likes to invest himself in various projects and keep on learning
+I'm an experienced developer who likes to get involved in different projects and keep learning.
 </div>
 
 ## Things I know/use
