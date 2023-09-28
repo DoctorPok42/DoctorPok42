@@ -1,8 +1,9 @@
 # Hello ! 👋
 <div align=center>
-I'm DoctorPok and i build things for the web and more
 
-I'm an experienced developer who likes to get involved in different projects and keep learning.
+### I'm DoctorPok and i build things for the web and more
+
+### I'm an experienced developer who likes to get involved in different projects and keep learning.
 </div>
 
 ## Things I know/use
